@@ -71,8 +71,6 @@ A collection of presentation layer functions that manage user input and output.
 - `output_employee_data(employee_data: list) -> None`: Displays employee data to the user.
 - `input_employee_data(employee_data: list, employee_type: Employee) -> list`: Gets the first name, last name, review date, and review rating from the user.
 
-#### ChangeLog:
-
 ## Program Overview
 
 The program manages employee ratings data and provides the following functionality:
@@ -93,8 +91,6 @@ The program manages employee ratings data and provides the following functionali
 
 The program reads and writes employee data to a JSON file named `EmployeeRatings.json`. Ensure the file exists before running the script.
 
-
-Sure, let's create a couple of example use cases for your Employee Ratings program.
 
 ### Use Case 1: Display Current Employee Rating Data
 

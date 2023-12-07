@@ -11,13 +11,11 @@ The source code of this repository is [here](https://github.com/rabiya7488/A08-2
 This program is assorted  into three data classes: data classes, presentation classes and processing classes.
 
 
-# Class Diagram ![Assignment 08 Diagram.drawio.png](Images%2FAssignment%2008%20Diagram.drawio.png))
-
-
+# Class Diagram ![Assignment 08 Diagram.drawio.png](Images%2FAssignment%2008%20Diagram.drawio.png)
 
 # Employee Ratings Program
 
-## Classes
+## Data Classes
 
 ### `Person`
 
